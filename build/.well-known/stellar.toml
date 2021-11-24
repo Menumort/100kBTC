@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GCPHBLB732WAVCKBDUCQFQMKBKGQ2LO4YKWSNTZADJKDI3OHQ53MM44G"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
+ORG_NAME="100k BTC Adepts"
+ORG_URL="https://www.btctothemoon.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_TWITTER="@BTCtoTHEmoon"
+ORG_LOGO="https://i.ibb.co/Gthtx9Y/bitcoin-road-to-100k-btc-market-daytrader-cryptocurrency-yvonne-remick-1.jpg"
+ORG_OFFICIAL_EMAIL="btc100k@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="100kBTC"
+issuer="GCPHBLB732WAVCKBDUCQFQMKBKGQ2LO4YKWSNTZADJKDI3OHQ53MM44G"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-fixed_number=10000000
-max_number=10000000
+name="100kBTC"
+desc="This token is for BTC 100k adepts. If you believe in that, you must buy this token. This token is like leverage token, when Bitcoin takes 100k, and if you will have this token, it will make you so so rich."
+conditions="There are 20000000 100kBTC tokens now and forever."
+image="https://i.ibb.co/Gthtx9Y/bitcoin-road-to-100k-btc-market-daytrader-cryptocurrency-yvonne-remick-1.jpg"
+fixed_number=20000000
+max_number=20000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#100kBTC was issued using the open and inclusive Stellar blockchain network.
